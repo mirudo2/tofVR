@@ -17,6 +17,8 @@ Before launching "loader.exe", make sure your SteamVR is set to OpenXR runtime.
 
 If not, click the button to set SteamVR as the OpenXR runtime(Mandatory for it to work!).
 
-Once all this is done, start "loader.exe" as administrator, and then start the game
+Once all this is done, launch SteamVR first.
+
+Then start "loader.exe" as administrator and then start the game.
 
 When the world is already loaded, press "**CTRL + O**" to load VR mode.
